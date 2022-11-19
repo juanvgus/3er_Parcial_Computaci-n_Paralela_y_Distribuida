@@ -16,6 +16,7 @@
 Es un lenguaje de programación que deriva de la unión entre los lenguajes de programación C y Python. Utilizando el tipado y compilación de C y las sintaxis y librerías de Pyhton. Esto permite tener la velocidad de ejecución de C con la simplicidad de la sintaxis y librerías de Python.
 <br>
 <br>
+## Instruciones
 <b>Instruciones</b>
 <br>
 <b>1. </b> Instalar Python y GCC
