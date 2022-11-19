@@ -4,6 +4,8 @@
 <br>
 <i><b>Autor:</b></i> Juan Diego Varon Guarin
 <br>
+<i><b>Programa:</b></i> Ciencias de la Computación e Inteligencia Artificial
+<br>
 <i><b>Asignatura:</b></i> Computación Paralela y Distribuida
 <br>
 <i><b>Docente:</b></i> John Corredor, PhD
