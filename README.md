@@ -31,4 +31,5 @@ Es un lenguaje de programación que deriva de la unión entre los lenguajes de p
 <br>
 <b>7. </b> Ejecutar los siguientes comandos: <br><pre>        make all</pre><pre>        python3 performance.py </pre>Al terminar la ejecución de <b>"performance.py"</b>, ejecutar el siguiente comando:<br><pre>        make clean</pre>
 <br>
+<b>Resultados de experiemnto: </b>https://colab.research.google.com/drive/1OSZe2qHNuHwn446gBOjOuE6GqAE3KxIl?hl=es#scrollTo=BDEU4cmMb-Lt
 </div>
